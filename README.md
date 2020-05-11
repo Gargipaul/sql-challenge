@@ -10,7 +10,7 @@ Table schema for each of the six CSV filesis created by specifying data types, p
 ## Data Analysis: 
 Listing the employee number, last name, first name, gender, and salary.
 
-## Listing employees who were hired in 1986.
+Listing employees who were hired in 1986.
 
 Listing the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
 
