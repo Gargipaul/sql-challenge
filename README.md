@@ -4,7 +4,8 @@ Using records of employees of a corporation from the 1980s and 1990s in the form
 ## Data Modeling:
 The CSVs are inspected to sketch out an ERD of the tables using tool at (http://www.quickdatabasediagrams.com). An ERD diagram is attached as a result.
 
-Data Engineering: Table schema for each of the six CSV filesis created by specifying data types, primary keys, foreign keys, and other constraints in Postgresql.Each CSV file is imported into the corresponding SQL table.
+## Data Engineering: 
+Table schema for each of the six CSV filesis created by specifying data types, primary keys, foreign keys, and other constraints in Postgresql.Each CSV file is imported into the corresponding SQL table.
 
 Data Analysis: Listing the employee number, last name, first name, gender, and salary.
 
