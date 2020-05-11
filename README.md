@@ -22,5 +22,5 @@ Listing all employees in the Sales department, including their employee number, 
 
 Listing all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-In descending order, listing the frequency count of employee last names, i.e., how many employees share each last name.
+## In descending order, listing the frequency count of employee last names, i.e., how many employees share each last name.
 
